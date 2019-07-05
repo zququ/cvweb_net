@@ -62,3 +62,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2019-06-15 <br>
+<br><img src="/img/journalcover.png" width = "500" div align= center /><br>
+On The Cover: <br>Bat MHC class I's Ag binding groove (teal) is different from other reported structures (fish, chicken, and human in magenta, yellow, and cyan, respectively) with a cluster of uniquely inserted residues which can help bat MHC class I promote the binding of high-affinity peptides. The (2Fo-Fc) map of these differential residues is shown. Qu, Z., Z. Li, L. Ma, X. Wei, L. Zhang, R. Liang, G. Meng, N. Zhang, and C. Xia. 2019. Structure and peptidome of the bat MHC class I molecule reveal a novel mechanism leading to high-affinity peptide binding. <br>J. Immunol. 202: 3493–3506.

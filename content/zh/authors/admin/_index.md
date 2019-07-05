@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zehui Qu 
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd candidate, veterinary microbiology and immunology 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: My Blog @zququ
+  url: "http://life.zququ.fun/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Phd candidate at China Agricultural University, interested in vaccine design through crystallography and cryo-em. Looking for postdoc position on cryo-em algorithm development 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cryo-em algorithm development 
+- Vaccine design based on crystallography and cryo-em
+- Structural study of virus ensemble mechanism
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD candidate in Veterinary Microbiology and Immunology 
+    institution: China Agricultural University 
+    year: 2016
+  - course: Master in Veterinary Molecular Viology 
+    institution: Graduate School in Chinese Academy of Agricultural Sciences
+    year: 2013
+  - course: BSc in Veterinary 
+    institution: Northeast Agricultural University; NEAU; 
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'qzh813@gamil.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: weibo 
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://weibo.com/809008138
+- icon: researchgate 
+  icon_pack: fab 
+  link: https://www.researchgate.net/profile/Zehui_Qu2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zququ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: cv
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Zehui Qu (@zququ), Phd candidate at China Agricultural University, department of veterinary microbiology and immunology. <br><br>
+My work mainly focuses on the structural study of the bat MHC I, trying to reveal its peptide presentation characteristic. 
+The other part of my work focuses on the cryo-em structure study of feline calicivirus, an important virus to cat. <br><br>
+My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. And paticularly, I am very interested in cryo electron microscope and *hoping to find a post-doc position on cryo-em algorithm development.*<br><br>
+Find my detail information in CV. <br><br>
+Please feel free to contact me. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

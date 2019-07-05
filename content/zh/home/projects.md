@@ -2,16 +2,16 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "My research work"
 
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -19,19 +19,23 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  #filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+#   [[content.filter_button]]
+#     name = "All"
+#     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+#   [[content.filter_button]]
+#     name = "PRRSV Relevant"
+#     tag = "PRRSV"
+ 
+#   [[content.filter_button]]
+#     name = "FCV Relevant"
+#     tag = "FCV"
+
+#   [[content.filter_button]]
+#     name = "MHC I Relevant"
+#     tag = "MHC"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,3 +78,4 @@ subtitle = ""
  css_class = ""
 +++
 
+PRRSV
