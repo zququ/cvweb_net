@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zehui Qu 
+name: 曲泽慧 
 
 # Username (this should match the folder name)
 authors:
