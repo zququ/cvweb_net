@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 曲泽慧 
+name: Zehui Qu 
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd candidate, veterinary microbiology and immunology 
+role: 在读博士研究生, 兽医微生物与免疫
 
 # Organizations/Affiliations
 organizations:
-- name: My Blog @zququ
+- name: 我的博客 @zququ
   url: "http://life.zququ.fun/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Phd candidate at China Agricultural University, interested in vaccine design through crystallography and cryo-em. Looking for postdoc position on cryo-em algorithm development 
+bio: 中国农业大学在校博士研究生
 
 interests:
-- Cryo-em algorithm development 
-- Vaccine design based on crystallography and cryo-em
-- Structural study of virus ensemble mechanism
+- 冷冻电镜算法开发
+- 基于晶体学和冷冻电镜算法的疫苗设计
+- 病毒组装机制研究
 
 education:
   courses:
-  - course: PhD candidate in Veterinary Microbiology and Immunology 
-    institution: China Agricultural University 
+  - course: 博士研究生，兽医微生物与免疫 
+    institution: 中国农业大学 
     year: 2016
-  - course: Master in Veterinary Molecular Viology 
-    institution: Graduate School in Chinese Academy of Agricultural Sciences
+  - course: 硕士学位，兽医分子病毒学 
+    institution: 中国农业科学院研究生院
     year: 2013
-  - course: BSc in Veterinary 
-    institution: Northeast Agricultural University; NEAU; 
+  - course: 学士学位, 兽医 
+    institution: 东北农业大学 
     year: 2009
 
 # Social/Academic Networking
@@ -70,10 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I'm Zehui Qu (@zququ), Phd candidate at China Agricultural University, department of veterinary microbiology and immunology. <br><br>
-My work mainly focuses on the structural study of the bat MHC I, trying to reveal its peptide presentation characteristic. 
-The other part of my work focuses on the cryo-em structure study of feline calicivirus, an important virus to cat. <br><br>
-My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. And paticularly, I am very interested in cryo electron microscope and *hoping to find a post-doc position on cryo-em algorithm development.*<br><br>
-Find my detail information in CV. <br><br>
-Please feel free to contact me. 
-
+我叫曲泽慧，一名中国农业大学兽医微生物与免疫方向的在读博士生。 <br><br>
+博士期间的主要工作为蝙蝠MHC I分子的结构生物学相关研究，尝试揭示其递程抗原肽的特点。<br><br>
+我的另一部分工作为猫杯状病毒的冷冻电镜结构研究。 <br><br>
+研究兴趣为基于晶体学和冷冻电镜的动物病毒疫苗设计。<br><br>
+**_我对冷冻电镜算法开发非常感兴趣，希望找到一个与冷冻电镜算法开发相关的博士后职位_**。<br><br>
+可以在我的CV栏目中找到我的个人简历。有任何问题，请随时联系我。
