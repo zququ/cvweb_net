@@ -18,7 +18,7 @@ organizations:
   url: "http://life.zququ.fun/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Phd candidate at China Agricultural University, interested in vaccine design through crystallography and cryo-em. Looking for postdoc position on cryo-em algorithm development 
+bio: Phd candidate at China Agricultural University, interested in vaccine design through crystallography and cryo-em. Looking for postdoc position.
 
 interests:
 - Cryo-em algorithm development 
@@ -73,7 +73,7 @@ user_groups:
 I'm Zehui Qu (@zququ), Phd candidate at China Agricultural University, department of veterinary microbiology and immunology. <br><br>
 My work mainly focuses on the structural study of the bat MHC I, trying to reveal its peptide presentation characteristic. 
 The other part of my work focuses on the cryo-em structure study of feline calicivirus, an important virus to cat. <br><br>
-My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. And paticularly, I am very interested in cryo electron microscope and *hoping to find a post-doc position on cryo-em algorithm development.*<br><br>
+My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. And paticularly, I am very interested in cryo electron microscope and *looking for post-doc position.*<br><br>
 Find my detail information in CV. <br><br>
 Please feel free to contact me. 
 
