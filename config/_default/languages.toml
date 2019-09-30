@@ -30,3 +30,7 @@
     name = "C.V."
     url = "../files/cv.pdf"
     weight = 70 
+  [[zh.menu.main]]
+    name = "研究简介"
+    url = "../files/Research_Introduction.pdf"
+    weight = 65
