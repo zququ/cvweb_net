@@ -37,7 +37,7 @@ education:
     institution: Graduate School in Chinese Academy of Agricultural Sciences
     year: 2013 - 2016
   - course: BSc in Veterinary 
-    institution: Northeast Agricultural University; NEAU; 
+    institution: Northeast Agricultural University
     year: 2009 - 2013
 
 # Social/Academic Networking
@@ -73,9 +73,19 @@ user_groups:
 - Visitors
 ---
 
-I'm Zehui Qu (@zququ), Postdoc at BCBDI of SIAT, CAS. <br><br>
-My work mainly focuses on 1. Structure study of Neurobiology related proteins. 2. Single virus tracking of PRVs based on quantum dots. 3. Structure study of the virus.
-My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. <br><br>
-Find my detail information in CV. <br><br>
+I'm Zehui Qu (@zququ), Postdoc at BCBDI of SIAT, CAS.
+
+My work mainly focuses on:
+
+1. Structure study of Neurobiology related proteins.
+
+2. Single virus tracking of PRVs based on quantum dots. 
+
+3. Structure study of the virus.
+
+My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em.
+
+Find my detail information in CV.
+
 Please feel free to contact me. 
 
