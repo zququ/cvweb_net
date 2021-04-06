@@ -18,7 +18,7 @@ organizations:
   url: "http://life.zququ.fun/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Phd candidate at China Agricultural University, interested in vaccine design through crystallography and cryo-em. Looking for postdoc position.
+bio: Doctor of agriculture (preventive veterinary), interested in animal vaccine design through crystallography and cryo-em. For now, working as postdoc in BCBDI, SIAT of China Academy of Sciences.
 
 interests:
 - Vaccine design based on crystallography and cryo-em
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Veterinary Microbiology and Immunology 
+	- course: Postdoc in Neurobiology
+	  institution: The Brain Cognition and Brain Disease Institute of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+	  year: 2020 -
+  - course: PhD in Veterinary Microbiology and Immunology 
     institution: China Agricultural University 
-    year: 2016
+    year: 2016 - 2020
   - course: Master in Veterinary Molecular Viology 
     institution: Graduate School in Chinese Academy of Agricultural Sciences
-    year: 2013
+    year: 2013 - 2016
   - course: BSc in Veterinary 
     institution: Northeast Agricultural University; NEAU; 
-    year: 2009
+    year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,10 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I'm Zehui Qu (@zququ), Phd candidate at China Agricultural University, department of veterinary microbiology and immunology. <br><br>
-My work mainly focuses on the structural study of the bat MHC I, trying to reveal its peptide presentation characteristic. 
-The other part of my work focuses on the cryo-em structure study of feline calicivirus, an important virus to cat. <br><br>
-My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. *looking for post-doc position.*<br><br>
+I'm Zehui Qu (@zququ), Postdoc at BCBDI of SIAT, CAS. <br><br>
+My work mainly focuses on 1. Structure study of Neurobiology related proteins. 2. Single virus tracking of PRVs based on quantum dots. 3. Structure study of the virus.
+My research interests include vaccine design of animal infectious disease based on crystallography and cryo-em. <br><br>
 Find my detail information in CV. <br><br>
 Please feel free to contact me. 
 
