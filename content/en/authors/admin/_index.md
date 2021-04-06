@@ -26,9 +26,9 @@ interests:
 - Structural study of immune molecule
 
 education:
-	- course: Postdoc in Neurobiology
-	  institution: The Brain Cognition and Brain Disease Institute of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-	  year: 2020 -
+  - course: Postdoc in Neurobiology
+    institution: The Brain Cognition and Brain Disease Institute of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+    year: 2020 -
   - course: PhD in Veterinary Microbiology and Immunology 
     institution: China Agricultural University 
     year: 2016 - 2020
